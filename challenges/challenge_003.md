@@ -1,5 +1,6 @@
 # Challenge 003 - SOBOT MAGNETO
-## 🎯 Challenge Description
+
+## 🎯 Challenge Objective
 In this challenge, participants will explore the Electromagnet Module integrated with the Fork Lift Module, allowing the SoBot to manipulate metallic objects. This includes assembling the module, controlling the electromagnet's functionality, and developing programming logic to simulate logistics picking system.
 
 ### Basic

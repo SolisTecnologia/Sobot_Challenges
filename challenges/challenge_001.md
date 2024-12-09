@@ -1,6 +1,6 @@
 # Challenge 001 - SOBOT STARTER
 
-## 🎯 Challenge Description
+## 🎯 Challenge Objective
 The goal of this challenge is to train the programmers to use all the concepts of movement with SoBot, along with activating the LED strip to signal each change of direction.
 
 ### Basic

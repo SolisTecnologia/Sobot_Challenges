@@ -1,6 +1,6 @@
 # Sobot Challenges
 
-## 📋 Sumnmary
+## 📋 Summary
 - [🚀 Introduction](#id01)
 - [💡 Structure of the Challenges](#id02)
 - [🧩 Challenges](#id03)

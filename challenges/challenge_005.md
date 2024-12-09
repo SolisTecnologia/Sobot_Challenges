@@ -1,5 +1,6 @@
 # Challenge 005 - SOBOT Agritech CONTROL
-## 🎯 Challenge Description
+
+## 🎯 Challenge Objective
 In this challenge, you will use the Agritech Module to explore assembly concepts, color detection, and simulation of agricultural spraying applications with a focus on computer vision.
 
 ### Basic

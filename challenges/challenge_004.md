@@ -1,5 +1,6 @@
 # Challenge 004 - SOBOT REMOTE CONTROL
-## 🎯 Challenge Description
+
+## 🎯 Challenge Objective
 In this challenge, you will use the Sonar Sensors and the USB Remote Control to control the SoBot, change the colors of the LED strip, and implement advanced detection and movement functionalities.
 
 ### Basic

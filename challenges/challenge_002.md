@@ -1,5 +1,6 @@
 # Challenge 002 - SOBOT FORK LIFT
-## 🎯  Challenge Description
+
+## 🎯 Challenge Objective
 In this challenge, participants must assemble and control the **Fork Lift Module** along with the **Line Follower Board** on the SoBot. This includes practicing the assembly, executing commands to control the lift module, and developing efficient programming for the robot to follow a predefined line.
 
 ### Basic
