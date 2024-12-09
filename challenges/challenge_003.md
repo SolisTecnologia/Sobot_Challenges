@@ -16,13 +16,6 @@ After assembling the lift module with the electromagnet, control its relays (dig
  1. After mastering the control of the electromagnets, simulate the collection of metal boxes to deposit them on the acrylic shelf provided with the SoBot kit.
 ![Magneto Image](./imgs/challenge_003_magneto_image.png)
 
-## 🥇 Completion Requirements
-- **File Generation:** A different file must be generated for each difficulty level.
-- **Assembly Execution:** The assembly of the lift module with the electromagnet must be done according to the provided instructions.
-- **Correct Electrical Wiring:** Wiring must be performed safely and accurately.
-- **Control Precision:** The lift with the electromagnet must operate correctly.
-- **Complete Execution:** The SoBot must perform the entire sequence without errors.
-
 ## 🌟Tips
 - Check the **Set of commands for controlling digital outputs** section in the Command Guide.
 - Refer to the APOSTILA SOBOT starting on page 81 (2nd Edition – 2024).

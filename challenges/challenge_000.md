@@ -20,22 +20,18 @@ Inside the created folder, create a file named ``challenge_000_solved.md``.
 
     E.g:
     ```
-    Institution: "Nome da Instituição"
+    Institution: "Name of Institution"
 
     Participants:
-    -"Nome dos participantes"
-    -"Nome dos participantes"
+    -"Participant Name"
+    -"Participant Name"
 
-    Location: "Cidade, UF"
+    Location: "City, State"
     ```
 5. **Make a commit and a pull request:**
 After making the changes:
 Commit the changes to your local repository
 Send a pull request to the official repository
-
-## 🥇  Requirements for Completion
-- **File Generation:** The folder and file must be created correctly.
-- **Correct Contribution:** The contribution must be done correctly.
 
 ## 🌟 Tips
 - Watch the video on our YouTube channel explaining how to contribute, which uses this challenge as an example. 

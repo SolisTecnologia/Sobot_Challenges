@@ -22,11 +22,6 @@ After completing the Agritech module assembly and programming for color recognit
 The program should be able to count the total and individual occurrences of green and red detected colors, applying the spray only where red is detected.
 ![Sobot Agri Tech](./imgs/challenge_005_sobot_agritech.png)
 
-## 🥇 Completion Requirements
-- **File Generation:** A different file must be created for each difficulty level.
-- **Complete Execution:** The SoBot must perform the entire sequence without errors.
-- **Accurate Detection:** The SoBot must correctly identify and differentiate colors.
-- **Precise Activation:** The solenoid should activate at the correct moment.
 ## 🌟Tips
 Refer to the **Commands for controlling digital outputs** section in the Command Guide.
 Watch videos on the [YouTube Channel](https://www.youtube.com/@solistecnologia/videos).

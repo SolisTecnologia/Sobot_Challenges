@@ -23,11 +23,6 @@ After completing the previous procedures, develop a code that makes the SoBot mo
 
 ![Sobot Control](./imgs/challenge_004_sobot_control.png)
 
-## 🥇 Completion Requirements
-- **File Generation:** A different file must be generated for each difficulty level.
-- **Complete Execution:** The SoBot must perform the entire sequence without errors.
-
-
 ## 🌟Tips
 Check the **Commands for reading SONAR sensors** section in the Command Guide.
 Watch videos on the [Youtube Channel](https://www.youtube.com/@solistecnologia/videos).

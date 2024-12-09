@@ -31,13 +31,6 @@ Perform the same path as the previous task, now with **continuous movement** and
 Execute the same path as the previous tasks using motor control in **pulses-per-second mode**, allowing **any type of turn**.
 
 
-## 🥇 Completion Requirements
-- **File Generation:** A different file must be generated for each difficulty level.
-- **Complete Execution:** The SoBot must complete the entire sequence without errors.
-- **Correct Use of Commands:** Commands must be applied correctly for each difficulty level.
-- **Proper Signaling:** The LED strip must accurately indicate each direction change.
-
-
 ## 🌟 Tips
 - Refer to the **Commands used for movement in fixed commands mode** section in the Command Guide.
 - Refer to the **Set of commands used for movement in continuous mode** section in the Command Guide.
