@@ -1,13 +1,13 @@
 # Challenge 005 - SOBOT Agritech CONTROL
 
 ## 🎯 Challenge Objective
-In this challenge, you will use the Agritech Module to explore assembly concepts, color detection, and simulation of agricultural spraying applications with a focus on computer vision.
+The objective of this challenge is to use computer vision concepts together with the Agritech Module, performing color detection and simulating the application with sprayers.
 
 ### Basic
 1. **Assembly of the Agritech Module:**
     Follow the assembly instructions for the Agritech module as provided in our video available on [YouTube](https://www.youtube.com/watch?v=kt1ajyvTT6U&list=PLJpodHj3AF0-VNTDBlsqiOu7pw9HkQsv-&index=5) and the “APOSTILA SOBOT” (2ª Edição – 2024, p. 84).
 
-    ATENÇÃO: Ensure the electrical connections of the Agritech module follow the instructions in the “APOSTILA SOBOT” (2ª Edição – 2024, p. 88) to avoid electrical damage.
+    CAUTION: Ensure the electrical connections of the Agritech module follow the instructions in the “APOSTILA SOBOT” (2ª Edição – 2024, p. 88) to avoid electrical damage.
 
 2. **Programming:**
 After assembling the Agritech module, implement a program to activate the tank valves.

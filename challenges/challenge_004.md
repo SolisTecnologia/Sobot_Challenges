@@ -1,10 +1,10 @@
 # Challenge 004 - SOBOT REMOTE CONTROL
 
 ## 🎯 Challenge Objective
-In this challenge, you will use the Sonar Sensors and the USB Remote Control to control the SoBot, change the colors of the LED strip, and implement advanced detection and movement functionalities.
+The goal of this challenge is to use the Sonar sensors and the USB remote control to control the SoBot, change the colors of the LED strip and implement advanced detection and movement functionalities.
 
 ### Basic
-Program the SoBot to read individual Sonar sensors as well as all sensors simultaneously. Change the LED strip color based on the distance detected by the sensors, following this table: 
+Send commands to read sonar sensors individually and also all sensors simultaneously. Change the color of the LED strip based on the distance detected by the sensors, following this table: 
 
  Distance| Led Color |
 |--| -- |
@@ -16,7 +16,7 @@ Less than 20 cm | Red
 
 ### Intermediate 
 
-Connect the USB remote control as described in the [YouTube](https://www.youtube.com/watch?v=F4W7lwZRuD0&list=PLJpodHj3AF0-VNTDBlsqiOu7pw9HkQsv-&index=8) tutorial. Develop a program to control the SoBot's movements and change the LED strip colors using the remote control buttons.
+Connect the USB remote control as instructed in our video available on [YouTube](https://www.youtube.com/watch?v=F4W7lwZRuD0&list=PLJpodHj3AF0-VNTDBlsqiOu7pw9HkQsv-&index=8) tutorial. Develop a program to control the SoBot's movements and change the LED strip colors using the remote control buttons.
 
 
 ### Advanced
