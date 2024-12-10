@@ -23,7 +23,9 @@ In this challenge, participants must assemble and control the **Fork Lift Module
 
     > [!CAUTION]
     > Perform the electrical wiring for the Line Follower Sensor Board as instructed in the "APOSTILA SOBOT" (2nd Edition – 2024, p. 77) to avoid electrical issues or damage.
-
+    
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 **2. Programming:**
    After assembling the Line Follower Sensor Board, draw a straight line on the floor with electrical tape and program the SoBot to follow the line.
 
