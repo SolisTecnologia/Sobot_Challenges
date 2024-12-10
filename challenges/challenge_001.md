@@ -1,10 +1,10 @@
 # Challenge 001 - SOBOT STARTER
 
 ## 🎯 Challenge Objective
-The goal of this challenge is to train the programmers to use all the concepts of movement with SoBot, along with activating the LED strip to signal each change of direction.
+The goal of this challenge is to use the SoBot to demonstrate the concepts used for robot movement and to use light signaling to indicate the direction of movement.
 
 ### Basic
-Participants must program the SoBot to execute a sequence of movements using **fixed commands**, and during each change of direction, the LED strip must be activated to indicate the corresponding direction. For turns, use self-axis turns.
+Program the SoBot to execute a sequence of movements using **fixed commands** and for each change of direction, change the color of the LED strip. For curves, use the curve mode on the axis itself.
 
 The movement sequence and LED colors are:
 |N° | Direction| Led Color|
